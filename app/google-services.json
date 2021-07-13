@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044291790728",
+    "project_id": "findplug-2f938",
+    "storage_bucket": "findplug-2f938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044291790728:android:60415cc4f82b92a81d3c3d",
+        "android_client_info": {
+          "package_name": "com.example.findplug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044291790728-0cfk68frhl1bdhgf6rvuo4ghfsp6bmp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCgp170M28OmJt82XnpHi8pd4-mCeFi08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044291790728-0cfk68frhl1bdhgf6rvuo4ghfsp6bmp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
